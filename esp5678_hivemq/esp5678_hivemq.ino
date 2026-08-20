@@ -5,12 +5,12 @@
 #include <PubSubClient.h>
 #include <Preferences.h>
 
-const char* WIFI_SSID = "YOUR_WIFI_SSID";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
-const char* MQTT_HOST = "YOUR_CLUSTER.s1.eu.hivemq.cloud";
+const char* WIFI_SSID = "SFKsh-L2";
+const char* WIFI_PASSWORD = "Sfksh@2025";
+const char* MQTT_HOST = "a4309d1f456042fbb2ce25305dcefbf5.s1.eu.hivemq.cloud"; // no https://
 const uint16_t MQTT_PORT = 8883;
-const char* MQTT_USER = "YOUR_HIVEMQ_USERNAME";
-const char* MQTT_PASSWORD = "YOUR_HIVEMQ_PASSWORD";
+const char* MQTT_USER = "Shit6767";
+const char* MQTT_PASSWORD = "Shit6767";
 const char* TOPIC_ROOT = "pushrod";
 const char* BOARD_ID = "esp5678";
 const uint8_t FIRST_ROD = 5;
